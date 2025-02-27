@@ -1,0 +1,4 @@
+-i https://pypi.org/simple
+dnspython==2.7.0 ; python_version >= '3.9'
+mongo-migrator==1.0.0rc1
+pymongo==4.11.1 ; python_version >= '3.9'
